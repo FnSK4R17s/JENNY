@@ -24,7 +24,7 @@ A completed whitepaper. No research or internet access needed.
 
 Find whitepapers using the discovery rules in `.agents/skills/jenny/SKILL.md`:
 1. If the user provided a path, use it directly.
-2. If `.agents/skills/beary/USER.md` exists, read the `OUTPUT_PATH` value.
+2. If `.beary/USER.md` exists, read the `OUTPUT_PATH` value.
 3. Fall back to `whitepaper-output/`.
 
 Scan the resolved path for topic directories. Each directory should contain `whitepaper/{TOPIC}-whitepaper.md`. List the available whitepapers with their topics and dates.
