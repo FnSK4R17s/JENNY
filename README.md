@@ -4,7 +4,7 @@
      ██║█████╗  ██╔██╗ ██║██╔██╗ ██║ ╚████╔╝        /         O
 ██   ██║██╔══╝  ██║╚██╗██║██║╚██╗██║  ╚██╔╝        /   (_____/
 ╚█████╔╝███████╗██║ ╚████║██║ ╚████║   ██║        /_____/   U
- ╚════╝ ╚══════╝╚═╝  ╚═══╝╚═╝  ╚═══╝   ╚═╝
+ ╚════╝ ╚══════╝╚═╝  ╚═══╝╚═╝  ╚═══╝   ╚═╝        ======
 ```
 JENNY takes long-form whitepapers and breaks them into sharp, publishable X.com content — threads, standalone posts, and multi-day series.
 
