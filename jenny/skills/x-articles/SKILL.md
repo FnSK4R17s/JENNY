@@ -79,4 +79,5 @@ Review the plan for:
 - Each post in a thread should end with tension or a transition — give people a reason to keep reading.
 - Prefer concrete over abstract. "Latency dropped 40%" beats "significant performance improvements."
 - Attribute claims. If a finding comes from a specific source, name it. Credibility matters on X.
-- Flag where a terminal screenshot, code snippet, or diagram would elevate the post — tag these as `[VISUAL: description]` in the outline.
+- Flag where a terminal screenshot, code snippet, or diagram would elevate the post - tag these as `[VISUAL: description]` in the outline.
+- Never use em dashes (—). Use regular hyphens (-) or rewrite the sentence. Output must be directly copy-pasteable.
