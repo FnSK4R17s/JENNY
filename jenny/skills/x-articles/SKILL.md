@@ -51,6 +51,7 @@ Write the plan into the output file using the `.agents/skills/jenny/templates/x-
    - Lead with a claim, number, or question — never "In this thread I will..."
    - Create curiosity or mild disagreement
    - Be under 280 characters
+   - For threads, prefix the hook with 🧵 to signal it's a thread
 5. **Outline** — for threads, a 1-line summary of each post in the thread. For standalone posts, the full draft text.
 6. **Key references** — which citations from the whitepaper to link or credit
 7. **Visual opportunity** — flag if this article would benefit from a diagram, chart, terminal screenshot, or code snippet (for future use)
